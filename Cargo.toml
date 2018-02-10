@@ -1,0 +1,10 @@
+[package]
+name = "lobsters-cli"
+version = "0.1.0"
+authors = ["Jordan Adams <hi@jordanadams.co.uk>"]
+
+[dependencies]
+clap = "2.29.4"
+reqwest = "0.8.4"
+select = "0.4.2"
+term = "0.4.6"
